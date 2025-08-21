@@ -25,6 +25,10 @@
 - plan/01/theme.yml:     テーマ
 - plan/01/title-idea.md: タイトルアイデア
 
+### 思考ノート
+
+- thinking-notes/thi-001.md: ヒロインが教会に捕まっても殺されない理由
+
 ### その他
 
 - notes.md: ノート
