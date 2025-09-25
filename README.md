@@ -25,6 +25,13 @@
 - plan/01/theme.yml:     テーマ
 - plan/01/title-idea.md: タイトルアイデア
 
+### プロット
+
+#### 第1章
+
+- plot/01/character-base.yml:  キャラクターの基本設計
+- plot/01/elements-ordeal.yml: プロット要素 試練
+
 ### 思考ノート
 
 - thinking-notes/thi-001.md: ヒロインが教会に捕まっても殺されない理由

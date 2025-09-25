@@ -1,0 +1,129 @@
+# キャラクターの基本設計
+## 概要比較
+overview comparison:
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+
+
+## 詳細
+details:
+
+  - dn: リエル
+    charm:
+      contents:
+        可憐
+      predicament:
+        腰を据えてじっくりと向き合う
+      normaly:
+        明るくお茶目、時にストレート
+    desire:
+      contents:
+        ティエリアと結ばれたい
+        世界の調停
+      conflict:
+        メーネスケイル
+      background connected to desire:
+        年長者
+    plot requirements:
+      type:
+        試練
+      contents:
+        theme:
+          初々しい恋と悠久の慈愛
+        inner self that confront (weaknesses):
+          自己犠牲と摂理への諦念
+        antagonist:
+          メーネスケイル
+        how to overcome:
+          摂理を超える
+        inner change:
+          非合理を受け入れる
+        right point:
+          見掛けの運命を打ち砕いた
+        wrong point:
+          なし
+    what to do:
+      メーネスケイルを打倒してティエリアを得る
+
+
+  - dn: ティエリア
+    charm:
+      contents:
+        できるお姉さん
+      predicament:
+        果敢な攻めの姿勢で切り抜ける
+      normaly:
+        クールなお姉さん、腰が据わって物怖じしない
+    desire:
+      contents:
+        リエルと結ばれたい
+        -勇者に復讐したいwork location
+      conflict:
+        -
+      background connected to desire:
+        -
+    plot requirements:
+      type:
+        -
+      contents:
+        theme:
+          -
+        inner self that confront (weaknesses):
+          -
+        antagonist:
+          -
+        how to overcome:
+          -
+        inner change:
+          -
+        right point:
+          -
+        wrong point:
+          -
+    what to do:
+      -
+
+
+  - dn: 
+    charm:
+      contents:
+        -
+      predicament:
+        -
+      normaly:
+        -
+    desire:
+      contents:
+        -
+        -
+      conflict:
+        -
+      background connected to desire:
+        -
+    plot requirements:
+      type:
+        -
+      contents:
+        theme:
+          -
+        inner self that confront (weaknesses):
+          -
+        antagonist:
+          -
+        how to overcome:
+          -
+        inner change:
+          -
+        right point:
+          -
+        wrong point:
+          -
+    what to do:
+      -
+
+
