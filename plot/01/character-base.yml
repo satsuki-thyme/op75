@@ -30,25 +30,48 @@ details:
       background connected to desire:
         年長者
     plot requirements:
-      type:
-        試練
-      contents:
-        theme:
-          初々しい恋と悠久の慈愛
-        inner self that confront (weaknesses):
-          自己犠牲と摂理への諦念
-        antagonist:
-          メーネスケイル
-        how to overcome:
-          摂理を超える
-        inner change:
-          非合理を受け入れる
-        right point:
-          見掛けの運命を打ち砕いた
-        wrong point:
-          なし
+      1:
+        type:
+          試練
+        contents:
+          theme:
+            初々しい恋と悠久の慈愛
+          inner self that confront (weaknesses):
+            
+          antagonist:
+            
+          how to overcome:
+            
+          inner change:
+            
+          right point:
+            
+          wrong point:
+            なし
+      2:
+        type:
+          試練
+        contents:
+          theme:
+            合理と非合理のバランス、理性と感情のバランス
+          inner self that confront (weaknesses):
+            自己犠牲と摂理への諦念
+              自己犠牲= メーネスケイルの依り代になることでティエリアを解放する
+              摂理への諦念= ティエリアを人質に取られて手出しができない
+          antagonist:
+            メーネスケイル
+          how to overcome:
+            合理を捨て非合理の力で摂理を超える（メーネスケイルの打倒とティエリアの救出の両方を実現させる）
+          inner change:
+            非合理を受け入れる
+          right point:
+            見掛けの運命を打ち砕いた
+          wrong point:
+            なし
     what to do:
-      メーネスケイルを打倒してティエリアを得る
+      ティエリアを天使が押さえていてメーネスケイルに逆らえない状況で、ボコボコにされるが、ティエリアの「本当の力で私を助けてよ！」の言葉がリエルの感情を強く揺さぶり感情が解放され真の力を目覚めさせて「世界の心奥＝精神の宇宙」にアクセスして無敵になってメーネスケイルを打倒してティエリアを得る
+    note:
+      世界の心奥にアクセスすると世界が失われるかもしれない
 
 
   - dn: ティエリア
@@ -62,31 +85,50 @@ details:
     desire:
       contents:
         リエルと結ばれたい
-        -勇者に復讐したいwork location
+        勇者に復讐したい
       conflict:
-        -
+        教会、勇者
       background connected to desire:
-        -
+        勇者に両親を殺された
     plot requirements:
-      type:
-        -
-      contents:
-        theme:
-          -
-        inner self that confront (weaknesses):
-          -
-        antagonist:
-          -
-        how to overcome:
-          -
-        inner change:
-          -
-        right point:
-          -
-        wrong point:
-          -
+      1:
+        type:
+          試練
+        contents:
+          theme:
+            気持ちに素直になる
+          inner self that confront (weaknesses):
+            拒絶されることへの恐怖
+          antagonist:
+            拒絶されることへの恐怖
+          how to overcome:
+            リエルの危機に勇気を奮い立たせる
+          inner change:
+            拒絶への恐れを乗り越える勇気を得る
+          right point:
+            気持ちに素直になった
+          wrong point:
+            なし
+      2:
+        type:
+          試練
+        contents:
+          theme:
+            
+          inner self that confront (weaknesses):
+            
+          antagonist:
+            
+          how to overcome:
+            
+          inner change:
+            
+          right point:
+            
+          wrong point:
+            なし
     what to do:
-      -
+      リエルに助けを請うて助けられる
 
 
   - dn: 

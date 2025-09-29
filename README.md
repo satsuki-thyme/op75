@@ -35,6 +35,7 @@
 ### 思考ノート
 
 - thinking-notes/thi-001.md: ヒロインが教会に捕まっても殺されない理由
+- thinking-notes/thi-002.md: ティエリアの復讐相手
 
 ### その他
 
