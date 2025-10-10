@@ -1,9 +1,17 @@
 # 初期設定
 sub title:
 
-sub story theme:
-
+sub story theme(課題):
+  生まれた小さな愛が苦しめられることで強くなっていく
 sub concept:
-
+  - 悪魔が愛をぶつけ、エルフが拒む
+  - 生きた年月にもかかわらず初なエルフ
+    - 近年胸が育ってきている
+  - エルフは我知らず愛を行っている
+    - 悪魔はそれを分かっている
+  - 「親子」かつ「師弟」の対決
+  - 「悪魔と神」かつ「両親を含む悪魔族の仇」の対決
 story setting:
-
+  work location
+  sub conceptはもっとシンプルなものじゃないの？
+  story settingはop65を参照する
