@@ -1,4 +1,11 @@
 # プロット系統別テーマ
-- plot lineage: 
-  theme: 
-  gists:
+- plot lineage: エルフ
+  theme(ordeal): 初めての恋に一歩を踏み出す
+  gist:
+    - 失うことへの怯え
+    - 失うことへの怒り
+
+- plot lineage: 悪魔
+  theme(ordeal): 初めての恋に一歩を踏み出す
+  gist:
+    - 
