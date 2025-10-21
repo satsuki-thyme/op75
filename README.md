@@ -36,6 +36,8 @@
 
 - thinking-notes/thi-001.md: ヒロインが教会に捕まっても殺されない理由
 - thinking-notes/thi-002.md: ティエリアの復讐相手
+- thinking-notes/thi-003.md: テーマ
+- thinking-notes/thi-004.md: 合理を捨て非合理を受け入れるとは
 
 ### その他
 
