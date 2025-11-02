@@ -31,43 +31,39 @@ details:
         年長者
     plot requirements:
       1:
-        type:
-          試練
-        contents:
-          theme:
-            初々しい恋と悠久の慈愛
-          inner self that confront (weaknesses):
-            
-          antagonist:
-            
-          how to overcome:
-            
-          inner change:
-            
-          right point:
-            
-          wrong point:
-            なし
+        theme:
+          初々しい恋
+        inner self that confront (weaknesses):
+          拒絶への恐怖
+        antagonist:
+          自分自身
+        how to overcome:
+          ティエリアに後押しされた勇気
+        inner change:
+          勇気の大切さに気づく
+        right point:
+          勇気を出した
+        wrong point:
+          なし
+        what to do:
+          拒絶の恐怖を勇気で乗り越えてティエリアへの想いを成就させる
       2:
-        type:
-          試練
-        contents:
-          theme:
-            勇気
-          inner self that confront (weaknesses):
-            自分の力への恐怖
-          antagonist:
-            メーネスケイル
-          how to overcome:
-            ティエリアへの愛と恋に後押しされて自分の本当の力を解放する決意をし、涅槃 = 「世界の心奥＝精神の宇宙」に入る
-          inner change:
-            「非合理 = 感情」の力に目覚める
-          right point:
-            見掛けの運命を打ち砕いた
-          wrong point:
-            なし
-    what to do:
-      ティエリアを天使が押さえていてメーネスケイルに逆らえない状況で、ボコボコにされるが、ティエリアの「本当の力で私を助けてよ！」の言葉がリエルの感情を強く揺さぶり感情が解放され真の力を目覚めさせて「世界の心奥＝精神の宇宙」にアクセスして無敵になってメーネスケイルを打倒してティエリアを得る
+        theme:
+          自己の解放
+        inner self that confront (weaknesses):
+          自分の力への恐怖
+        antagonist:
+          メーネスケイル
+        how to overcome:
+          ティエリアへの愛と恋に後押しされて自分の本当の力を解放する決意をし、涅槃 = 「世界の心奥＝精神の宇宙」に入る
+        inner change:
+          「非合理 = 感情」の力に目覚める
+        right point:
+          見掛けの運命を打ち砕いた
+        wrong point:
+          なし
+        what to do:
+          ティエリアを天使が押さえていてメーネスケイルに逆らえない状況で、ボコボコにされるが、ティエリアの「本当の力で私を助けてよ！」の言葉がリエルの感情を強く揺さぶり感情が解放され真の力を目覚めさせて「世界の心奥＝精神の宇宙」にアクセスして無敵になってメーネスケイルを打倒してティエリアを得る
 
 
   - dn: ティエリア
@@ -88,43 +84,39 @@ details:
         勇者に両親を殺された
     plot requirements:
       1:
-        type:
-          試練
-        contents:
-          theme:
-            気持ちに素直になる
-          inner self that confront (weaknesses):
-            拒絶されることへの恐怖
-          antagonist:
-            拒絶されることへの恐怖
-          how to overcome:
-            リエルの危機に勇気を奮い立たせる
-          inner change:
-            拒絶への恐れを乗り越える勇気を得る
-          right point:
-            気持ちに素直になった
-          wrong point:
-            なし
+        theme:
+          気持ちに素直になる
+        inner self that confront (weaknesses):
+          自分はリエルに見合わないという自己否定
+        antagonist:
+          自分自身
+        how to overcome:
+          リエルの危機に勇気を奮い立たせる
+        inner change:
+          もっと望んでいいのだと気づく
+        right point:
+          気持ちに素直になった
+        wrong point:
+          なし
+        what to do:
+          欲求を発露してリエルへの想いを成就させる
       2:
-        type:
-          試練
-        contents:
-          theme:
-            
-          inner self that confront (weaknesses):
-            
-          antagonist:
-            
-          how to overcome:
-            
-          inner change:
-            
-          right point:
-            
-          wrong point:
-            なし
-    what to do:
-      リエルに助けを請うて助けられる
+        theme:
+          
+        inner self that confront (weaknesses):
+          
+        antagonist:
+          
+        how to overcome:
+          
+        inner change:
+          
+        right point:
+          
+        wrong point:
+          なし
+        what to do:
+          リエルに助けを請うて助けられる
 
 
   - dn: 
@@ -144,24 +136,21 @@ details:
       background connected to desire:
         -
     plot requirements:
-      type:
+      theme:
         -
-      contents:
-        theme:
-          -
-        inner self that confront (weaknesses):
-          -
-        antagonist:
-          -
-        how to overcome:
-          -
-        inner change:
-          -
-        right point:
-          -
-        wrong point:
-          -
-    what to do:
-      -
+      inner self that confront (weaknesses):
+        -
+      antagonist:
+        -
+      how to overcome:
+        -
+      inner change:
+        -
+      right point:
+        -
+      wrong point:
+        -
+      what to do:
+        -
 
 
