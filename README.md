@@ -41,5 +41,4 @@
 
 ### その他
 
-- notes.md: ノート
-- todo.md:  ToDoリスト
+- todo.md: ToDoリスト
