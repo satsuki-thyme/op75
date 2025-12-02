@@ -1,0 +1,114 @@
+# キャラクター描写
+
+- dn: リエル
+  contents:
+
+    - item: 登場時の紹介（主性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 専用シーン（副性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 一般描写
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+
+
+- dn: ティエリア
+  contents:
+
+    - item: 登場時の紹介（主性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 専用シーン（副性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 一般描写
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+
+
+- dn: 
+  contents:
+
+    - item: 登場時の紹介（主性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 専用シーン（副性質）
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+
+    - item: 一般描写
+      contents:
+
+        - nature: 
+          contents:
+            explanation: 
+            acting: 
+            contrast: 
+            rumors: 
+            treated: 
+

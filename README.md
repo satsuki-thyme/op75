@@ -29,8 +29,9 @@
 
 #### 第1章
 
-- plot/01/character-base.yml:  キャラクターの基本設計
-- plot/01/elements-ordeal.yml: プロット要素 試練
+- plot/01/character-base.yml:      キャラクターの基本設計
+- plot/01/character-portrayal.yml: キャラクター描写
+- plot/01/elements-ordeal.yml:     プロット要素 試練
 
 ### 思考ノート
 
